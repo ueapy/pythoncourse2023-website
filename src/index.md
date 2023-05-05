@@ -14,9 +14,9 @@
 
 | Day | Time (BST) | Location | Topics covered |
 |-----|----------|-------|----------|
-| 5th June 2023 | 8:30 - 16:45 | UEA BDS 0.21 | Python basics |
-| 6th June 2023 | 9:00 - 16:40 | UEA BDS 0.21 | Functions, simple programs and arrays |
-| 9th June 2023 | 9:00 - 16:20 | UEA BDS 0.21 | Plotting and data analysis |
+| 5th June 2023 | 8:30 - 17:00 | UEA BDS 0.21 | Python basics |
+| 6th June 2023 | 9:00 - 17:00 | UEA BDS 0.21 | Functions, simple programs and arrays |
+| 9th June 2023 | 9:00 - 17:00 | UEA BDS 0.21 | Plotting and data analysis |
 
 Full timetable available [here](programme.md).
 
@@ -47,7 +47,7 @@ Register at [Eventbrite](https://www.eventbrite.co.uk/).
 
 If you have queries please contact:
 
-* [Jenny (Cefas)](mailto:jennifer.graham@cefas.co.uk)
+* [Jenny (Cefas)](mailto:jennifer.graham@cefas.gov.uk)
 * [Eliza (UEA, Aries)](mailto:e.karlowska@uea.ac.uk)
 
 
@@ -58,9 +58,13 @@ Contact us by email to receive access to the recorded sessions.
 ## Support after the course? 
 
 ### Cefas
-The PyFAS group meets occasionally, to present work, discuss python problems and provide general support. 
+The PyFAS group meets regularly, to present work, discuss python problems and provide general support. 
 
-Contact Harry Lloyd to join the group and receive future invites.
+Contact Claire Beraud to join the group and receive future invites.
+
+The Turn up & Code code group meets regularly to support personal development in programming in any language.
+
+Contact Lianne Harrison if you ar enot receiving calendar invites.
 
 ### UEA
 The UEA Python group meets occasionally. Check the archives of previous sessions here: [https://ueapy.github.io](https://ueapy.github.io/). Or join our [Slack workspace](https://uea-python.slack.com/) to ask questions and take part in weekly coding drop ins.
