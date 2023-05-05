@@ -1,13 +1,22 @@
 # Installation instructions
 
-For this course you will need to have Python installed on your laptop, inlcuding some extra packages. Follow the instructions below to set up your Python environment. Make sure you do this do this **before** the course, including running the test as below. There will be a troubleshooting session on the first day at 8:30 as advertised in the invite email.
+# WiFi access for Cefas staff
+If your laptop is configured to use the eduroam academic network this will be available across campus. Alternatively [register to Sky's free WiFi The Cloud](https://account.thecloud.eu/spportal/).
+
+# Laptop Installation
+For this course you will need to have Python installed on your laptop, including some extra packages. Follow the instructions below to set up your Python environment. Make sure you do this do this **before** the course, including running the test as below. There will be a troubleshooting session on the first day at 8:30 as advertised in the invite email.
+
+As an alternative you can use cloud hosting by [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ueapy/pythoncourse2023-materials/main?urlpath=lab) to run all the lessons with the data here contained (it is not possible to load your own data), but any changes made won't be saved.
+
 Feel free to contact [Jenny at Cefas](mailto:jennifer.graham@cefas.co.uk) or [Eliza at UEA](mailto:e.karlowska@uea.ac.uk) if you have any problems with the installation (but better do an internet search first!)
-Note: The course is designed in Python 3.8 but even if you have a different version installed, 3.8 will be installed when creating a conda environment in step 3 below.
+Note: The course is designed in Python 3.9 but even if you have a different version installed, 3.9 will be installed when creating a conda environment in step 3 below.
 
 ## 1. Install Python distribution
 
 ### Cefas Users
-We do not have free access to Anaconda, so please use a free alternative such as Mamba instead. For those in academia, we also recommend this as a more lightweight (and often faster) python installation option!  
+You will neet to request in advance a temporary administrator password to make the installation. 
+
+As a government organisation we do not have free access to Anaconda, so please use the free alternative mambaforge. For those in academia, we also recommend this as a more lightweight (and often faster) python installation option!  
 
 1.1.a [Download Mambaforge for your OS](https://github.com/conda-forge/miniforge#mambaforge) 
 
