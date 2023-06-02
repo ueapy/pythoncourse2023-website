@@ -29,23 +29,23 @@ Location: UEA BDS 0.21
 Tuesday 6th June 2023, 9:00 - 17:00 BST
 Location: UEA BDS 0.21
 
-| Topic                       | Type     | Time  | Duration |
-|-----------------------------|----------|-------|----------|
-| 7 Control flow statements 2 | Lecture  |  9:00 |  0:55    |
-|                         | *Mini break* |  9:55 |  0:05    |
-| Guided practice 1           | Exercise | 10:00 |  0:55    |
-|                             | *Break*  | 10:55 |  0:15    |
-| 8 Defining functions        | Lecture  | 11:10 |  0:50    |
-|             | *Lunch break (BDS 0.35)* | 12:00 |  1:00    |
-| 9 Build a simple program    | Exercise | 13:00 |  0:45    |
-| 10 Errors and exceptions    | Lecture  | 13:45 |  0:20    |
-|                         | *Mini break* | 14:05 |  0:05    |
-| 11 Modularity and packages  | Lecture  | 14:10 |  0:30    |
-| 12 Build another program    | Exercise | 14:40 |  0:30    |
-|                             | *Break*  | 15:10 |  0:15    |
-| 13 NumPy: basics            | Lecture  | 15:25 |  1:00    |
-|                         | *Mini break* | 16:25 |  0:05    |
-| 13 NumPy: explore arrays    | Lecture  | 16:30 |  0:30    |
+| Notebook # | Topic                     | Type         | Time  | Duration |
+|----------------------------------------|--------------|-------|----------|
+| 7          | Control flow statements 2 |     Lecture  |  9:00 |  0:55    |
+|            |                           | *Mini break* |  9:55 |  0:05    |
+| GP1        | Guided practice 1         | Exercise     | 10:00 |  0:55    |
+|            |                           | *Break*      | 10:55 |  0:15    |
+| 8          | Defining functions        | Lecture      | 11:10 |  0:50    |
+|            |                           | *Lunch break (BDS 0.35)* | 12:00 |  1:00    |
+| 9          | Build a simple program    | Exercise     | 13:00 |  0:45    |
+| 10         | Errors and exceptions     | Lecture      | 13:45 |  0:20    |
+|            |                           | *Mini break* | 14:05 |  0:05    |
+| 11         | Modularity and packages   | Lecture      | 14:10 |  0:30    |
+| 12         | Create Module             | Exercise     | 14:40 |  0:30    |
+|            |                           | *Break*      | 15:10 |  0:15    |
+| 13         | NumPy: basics             | Lecture      | 15:25 |  1:00    |
+|            |                           | *Mini break* | 16:25 |  0:05    |
+| 13         | NumPy: explore arrays     | Lecture      | 16:30 |  0:30    |
 
 ## Day 3 -  Plotting and data analysis
 Friday 9th June 2023, 9:00 - 17:00 BST
