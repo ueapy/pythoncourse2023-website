@@ -85,12 +85,13 @@ cd C:\Users\myname\Downloads\pythoncourse2023-materials\
 ```bash
 conda env create -f environment.yml
 ```
-This will take some time depending on your Internet speed (<15 minutes).
-
-If you installed mamba, you can use a faster option:
+or if you installed mamba
 ```bash
 mamba env create -f environment.yml
 ```
+
+This will take some time depending on your Internet speed (<15 minutes).
+
 
 If you get stuck try typing return or, failing this, creating the environment again.
 
